@@ -1,9 +1,10 @@
 {
   "product": "BJ_Team9资产",
-  "version": "1.3.13",
-  "source_commit": "cd25386a09f394adefcd8c8e988269127810efde",
-  "package_sha256": "712dfe5d55f5413213c267d830457cfc60e0785340c3d5644994fc52570cf8ca",
-  "package_bytes": 36348944,
+  "displayName": "T9 Assets",
+  "version": "1.3.26",
+  "source_commit": "a5302875fb98534d1891d369f26f73320265798d",
+  "package_sha256": "8043423ec50694a77bcf0ae62fa05bc23c7dcfc37a81997d78bfd5dd6e1ae62a",
+  "package_bytes": 36480548,
   "verified_files": 210,
   "repository": "0327sjk-code/TeamAssetLibrary"
 }
